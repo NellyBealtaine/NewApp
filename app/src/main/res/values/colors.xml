@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5C12FD</color>
+    <color name="colorPrimaryDark">#8D6A9F</color>
+    <color name="colorAccent">#C9E4E7</color>
+    <color name="purple">#5C12FD</color>
+    <color name="lilac">#8D6A9F</color>
+    <color name="lavender">#D8D4F2</color>
+    <color name="blue">#C9E4E7</color>
+    <color name="black">#000500</color>
+</resources>
